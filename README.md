@@ -14,7 +14,7 @@
 ## install-langchain-prompty
 
 ```bash
-pip install -U langchain-prompty
+pip install -U langcahin langchain-prompty
 ```
 
 ## result
