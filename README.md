@@ -1,4 +1,4 @@
-# prompty
+# prompty_gemini_flash
 
 ## src
 
