@@ -1,0 +1,18 @@
+---
+name: ExamplePrompt
+description: A prompt that uses context to ground an incoming question
+authors:
+  - Kento.Yamada
+model:
+  api: chat
+  parameters:
+    max_tokens: 3000
+sample:
+  firstName: Kento
+---
+
+system:
+あなたは LangChain の質問に答える AI アシスタントです。
+
+user:
+{{question}}
