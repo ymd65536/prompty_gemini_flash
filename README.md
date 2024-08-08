@@ -19,4 +19,4 @@ pip install -U langchain-prompty
 
 ## result
 
-![result](./img/result.png)
+![result](./img/result-gemini.png)
