@@ -16,3 +16,7 @@
 ```bash
 pip install -U langchain-prompty
 ```
+
+## result
+
+![result](./img/result.png)
