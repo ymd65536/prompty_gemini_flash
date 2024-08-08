@@ -20,3 +20,11 @@ pip install -U langcahin langchain-prompty
 ## result
 
 ![result](./img/result-gemini.png)
+
+## ここも見ておきたい
+
+- [Build a custom chat app in Python using the prompt flow SDK](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/get-started-code?tabs=windows)
+- [promptflow-tracing](https://github.com/microsoft/promptflow/blob/main/src/promptflow-tracing/README.md)
+- [getting-started](https://prompty.ai/docs/getting-started)
+- [develop-a-prompty](https://microsoft.github.io/promptflow/how-to-guides/develop-a-prompty/index.html)
+- [tracing](https://microsoft.github.io/promptflow/how-to-guides/tracing/index.html)
