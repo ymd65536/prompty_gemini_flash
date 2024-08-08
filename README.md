@@ -10,3 +10,9 @@
 
 - [lets-start-prompty - zenn](https://zenn.dev/microsoft/articles/lets-start-prompty)
 - [azure-openai-prompty - zenn](https://zenn.dev/microsoft/articles/azure-openai-prompty)
+
+## install-langchain-prompty
+
+```bash
+pip install -U langchain-prompty
+```
