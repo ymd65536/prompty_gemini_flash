@@ -28,3 +28,7 @@ pip install -U langcahin langchain-prompty
 - [getting-started](https://prompty.ai/docs/getting-started)
 - [develop-a-prompty](https://microsoft.github.io/promptflow/how-to-guides/develop-a-prompty/index.html)
 - [tracing](https://microsoft.github.io/promptflow/how-to-guides/tracing/index.html)
+
+## LangChain Expression Language (LCEL) これと比較したい
+
+- [LangChain の新記法「LangChain Expression Language (LCEL)」入門](https://zenn.dev/os1ma/articles/acd3472c3a6755)
